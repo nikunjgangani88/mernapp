@@ -1,1 +1,13 @@
-# mernapp
+<article class="markdown-body entry-content container-lg" itemprop="text"><p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/76579213/115905706-1a5ef080-a484-11eb-94c4-bbd680ce3951.png"><img width="80%" align="center" src="https://user-images.githubusercontent.com/76579213/115905706-1a5ef080-a484-11eb-94c4-bbd680ce3951.png" alt="portfolio template mockup" style="max-width:100%;"></a> <br></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg"><img align="left" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/react.svg" height="50" alt="react icon" style="max-width:100%;"></a></p>
+<h2><a id="user-content-yadee" class="anchor" aria-hidden="true" href="#yadee"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Jekon</h2>
+<p>
+<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"></g-emoji> Using React, Node.js, Express &amp; MongoDB is a Full Stack MERN CRUD Application. The App is called "Jekon" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+</p>
+<h3><a id="user-content-books-getting-started" class="anchor" aria-hidden="true" href="#books-getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"><img class="emoji" alt="books" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"></g-emoji> Getting started</h3>
+<ol>
+<li>Clone or fork project.</li>
+<li>Install required dependencies with <code>npm install</code>.</li>
+<li><code>npm start</code> project and customize it.</li>
+</ol>
+</article>
